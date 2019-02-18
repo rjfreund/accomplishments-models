@@ -1,6 +1,6 @@
 {
   "name": "@rjfreund/accomplishments-models",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "models for accomplishments app",
   "main": "index.js",
   "scripts": {

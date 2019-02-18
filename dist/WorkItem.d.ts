@@ -1,6 +1,5 @@
 import { User } from "./User";
-
-export class WorkItem {
+export declare class WorkItem {
     title: string;
     description: string;
     createDate: Date;

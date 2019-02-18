@@ -1,0 +1,19 @@
+{
+  "name": "@rjfreund/accomplishments-models",
+  "version": "1.0.0",
+  "description": "models for accomplishments app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjfreund/accomplishments-models.git"
+  },
+  "author": "R.J. Freund",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjfreund/accomplishments-models/issues"
+  },
+  "homepage": "https://github.com/rjfreund/accomplishments-models#readme"
+}

@@ -2,8 +2,7 @@
   "name": "@rjfreund/accomplishments-models",
   "version": "1.0.4",
   "description": "models for accomplishments app",
-  "main": "index.js",
-  "types": "./dist",
+  "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rjfreund/accomplishments-models/issues"
   },
-  "homepage": "https://github.com/rjfreund/accomplishments-models#readme"
+  "homepage": "https://github.com/rjfreund/accomplishments-models#readme",
+  "devDependencies": {
+    "typescript": "^3.3.3"
+  }
 }

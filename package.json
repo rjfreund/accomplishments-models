@@ -1,8 +1,9 @@
 {
   "name": "@rjfreund/accomplishments-models",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "models for accomplishments app",
   "main": "index.js",
+  "types": "./dist",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
